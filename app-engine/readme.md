@@ -1,6 +1,6 @@
 Original main file available at https://github.com/GoogleCloudPlatform/python-docs-samples
 
-Modification  https://github.com/cloudadvocate/google-cloud
+Forked Modification from https://github.com/cloudadvocate/google-cloud
 
 After education watching of https://www.youtube.com/watch?v=dURd1aTdJqg parameter adjustments have been made by myself. 
 
