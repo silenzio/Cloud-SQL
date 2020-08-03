@@ -45,7 +45,7 @@ def main():
                               host=host, db=db_name)
 
     with cnx.cursor() as cursor:
-        cursor.execute('SELECT lesson_id FROM lesson ORDER BY DESC;')
+        cursor.execute('SELECT lesson_id FROM lesson ORDER BY lessen_id DESC;')
         result = cursor.fetchall()
         current_msg = result
     cnx.close()
