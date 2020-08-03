@@ -1,5 +1,7 @@
 Original main file available at https://github.com/GoogleCloudPlatform/python-docs-samples
+
 Modification  https://github.com/cloudadvocate/google-cloud
+
 After education watching of https://www.youtube.com/watch?v=dURd1aTdJqg parameter adjustments have been made by myself. 
 
 # Commands used in App Engine App hosted on cloud.spokuj.de:
