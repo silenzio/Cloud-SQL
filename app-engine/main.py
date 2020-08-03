@@ -47,9 +47,7 @@ def main():
     with cnx.cursor() as cursor:
         cursor.execute('SELECT lesson_id FROM lesson;')
         result = cursor.fetchall()
-        current_msg = ("Current lesson count: ", cursor.rowcount)
-        for row in result
-        print("Lesson =", row[0])
+        current_msg = result[0][0]
     cnx.close()
 
     return str(current_msg)
