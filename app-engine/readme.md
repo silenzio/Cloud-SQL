@@ -4,6 +4,8 @@ Forked Modification from https://github.com/cloudadvocate/google-cloud
 
 After education watching of https://www.youtube.com/watch?v=dURd1aTdJqg parameter adjustments have been made by myself. 
 
+Use case is a documentation of my typing training from: https://www.typingclub.com/
+
 # Commands used in App Engine App hosted on cloud.spokuj.de:
 
 1. gcloud sql connect typing --user=silenzio
